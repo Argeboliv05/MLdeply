@@ -1,4 +1,4 @@
-# Documentación del Proyecto de Recomendación de Negocios
+# Proyecto de Recomendación de Negocios utilizando Machine Learning
 
 ## Descripción General
 
